@@ -1,0 +1,20 @@
+body{
+    background-color: darkgrey;
+}
+
+body{
+    color: white;
+}
+
+.clicked{
+    background-color: orange;
+}
+
+.form,
+.user{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
